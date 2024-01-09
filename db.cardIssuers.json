@@ -1,0 +1,157 @@
+{
+  "issuers": [
+    {
+      "bin": "542523",
+      "payment_system": "MasterCard",
+      "bank": "Allied Irish Banks",
+      "card_type": "Credit",
+      "country": "Ireland",
+      "country_code": "IE",
+      "website": "www.aib.ie"
+    },
+    {
+      "bin": "470132",
+      "payment_system": "Visa",
+      "bank": "Bank Of America",
+      "card_type": "Debit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.bankofamerica.com"
+    },
+    {
+      "bin": "440066",
+      "payment_system": "Visa",
+      "bank": "Bank Of America",
+      "card_type": "Credit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.bankofamerica.com"
+    },
+    {
+      "bin": "542418",
+      "payment_system": "MasterCard",
+      "bank": "CitiBank N.A.",
+      "card_type": "Credit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.citi.com"
+    },
+    {
+      "bin": "440393",
+      "payment_system": "Visa",
+      "bank": "Suton Bank",
+      "card_type": "Debit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.suttonbank.com"
+    },
+    {
+      "bin": "423223",
+      "payment_system": "Visa",
+      "bank": "Bancorp Bank",
+      "card_type": "Debit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.thebancorp.com"
+    },
+    {
+      "bin": "414720",
+      "payment_system": "Visa",
+      "bank": "Chase Bank USA",
+      "card_type": "Credit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.chase.com"
+    },
+    {
+      "bin": "434769",
+      "payment_system": "Visa",
+      "bank": "JPMorgan Chase Bank",
+      "card_type": "Debit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.chase.com"
+    },
+    {
+      "bin": "414709",
+      "payment_system": "Visa",
+      "bank": "Capital One Bank",
+      "card_type": "Credit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.capitalone.com"
+    },
+    {
+      "bin": "539616",
+      "payment_system": "MasterCard",
+      "bank": "Barclays Bank PLC",
+      "card_type": "Credit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.barclays.co.uk"
+    },
+    {
+      "bin": "540002",
+      "payment_system": "MasterCard",
+      "bank": "Barclays Bank PLC",
+      "card_type": "Credit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.barclays.co.uk"
+    },
+    {
+      "bin": "540055",
+      "payment_system": "MasterCard",
+      "bank": "Lloyds Bank PLC",
+      "card_type": "Credit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.lloydsbankinggroup.com"
+    },
+    {
+      "bin": "540251",
+      "payment_system": "MasterCard",
+      "bank": "HSBC Bank PLC",
+      "card_type": "Credit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.hsbc.co.uk"
+    },
+    {
+      "bin": "410558",
+      "payment_system": "Visa",
+      "bank": "Santander UK PLC",
+      "card_type": "Debit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.santander.co.uk"
+    },
+    {
+      "bin": "413828",
+      "payment_system": "Visa",
+      "bank": "HSBC Bank PLC",
+      "card_type": "Credit",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": "www.hsbc.co.uk"
+    },
+    {
+      "bin": "601100",
+      "payment_system": "Discover",
+      "bank": "Disover Bank",
+      "card_type": "Credit",
+      "country": "United States",
+      "country_code": "US",
+      "website": "www.discover.com"
+    },
+    {
+      "bin": "374245",
+      "payment_system": "American Express",
+      "bank": "American Express UK Consumer Charge",
+      "card_type": "Charge Card",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "website": ""
+    }
+  ]
+}
